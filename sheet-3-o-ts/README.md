@@ -1,3 +1,7 @@
+---
+title: Sheet 3 · О–Ц — design reference
+---
+
 # Sheet 3 · О–Ц — design reference
 
 This is a design mockup created in a visual design tool, exported as a
